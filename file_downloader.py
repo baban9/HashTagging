@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding:utf-8 -*-
-###
-# File: file_downloader.py
-# Author: Babandeep Singh
-# Contact: (babandeep.singh@airavana.ai)
-# Copyright (c) 2020 - 2023 Airavana Inc.
-###
-
 from instaloader import Instaloader, Hashtag
 
 class downloader:
