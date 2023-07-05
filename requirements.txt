@@ -8,4 +8,3 @@ tqdm
 tensorflow
 keras
 pillow
-tqdm
